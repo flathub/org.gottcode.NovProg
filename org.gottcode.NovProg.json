@@ -24,10 +24,6 @@
 					"type": "archive",
 					"url": "https://gottcode.org/novprog/novprog-3.1.6-src.tar.bz2",
 					"sha256": "4e861ee60f625f18d908bf43532dfb7a8dc523e89827bebe84cd276951814bbf"
-				},
-				{
-					"type": "patch",
-					"path": "appdata_oars.patch"
 				}
 			]
 		}
