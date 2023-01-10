@@ -1,7 +1,7 @@
 {
 	"app-id": "org.gottcode.NovProg",
 	"runtime": "org.kde.Platform",
-	"runtime-version": "6.3",
+	"runtime-version": "6.4",
 	"sdk": "org.kde.Sdk",
 	"command": "novprog",
 	"rename-icon": "novprog",
@@ -22,8 +22,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/novprog/novprog-3.2.1-src.tar.bz2",
-					"sha256": "fbde8e28e862170d3ac48c31c10704b70c78edc77fb9c427689e31716e40018d"
+					"url": "https://gottcode.org/novprog/novprog-3.2.2.tar.bz2",
+					"sha256": "7bb17d64d0c7ad007417d631a1af02cf36c86718f9be2c66beafcc8426ccfdcb"
 				}
 			]
 		}
