@@ -1,7 +1,7 @@
 {
 	"app-id": "org.gottcode.NovProg",
 	"runtime": "org.kde.Platform",
-	"runtime-version": "6.5",
+	"runtime-version": "6.6",
 	"sdk": "org.kde.Sdk",
 	"command": "novprog",
 	"rename-icon": "novprog",
