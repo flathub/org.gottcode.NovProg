@@ -22,8 +22,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/novprog/novprog-3.2.2.tar.bz2",
-					"sha256": "7bb17d64d0c7ad007417d631a1af02cf36c86718f9be2c66beafcc8426ccfdcb"
+					"url": "https://gottcode.org/novprog/novprog-3.2.3.tar.bz2",
+					"sha256": "1dd552f41b2607d7f897cb751b6daff990a3c1f45064070a92e7c8d9e63db3a9"
 				}
 			]
 		}
