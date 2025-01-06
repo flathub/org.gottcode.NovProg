@@ -1,0 +1,16 @@
+diff --git a/icons/novprog.appdata.xml b/icons/novprog.appdata.xml
+index 6702299..7227719 100644
+--- a/icons/novprog.appdata.xml
++++ b/icons/novprog.appdata.xml
+@@ -60,7 +60,7 @@
+     <binary>novprog</binary>
+   </provides>
+   <launchable type="desktop-id">novprog.desktop</launchable>
+-  <icon type="stock">novprog</icon>
++  <icon type="stock">org.gottcode.NovProg</icon>
+ 
+   <categories>
+     <category>Office</category>
+-- 
+2.44.0
+
